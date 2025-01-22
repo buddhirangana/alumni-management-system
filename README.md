@@ -1,1 +1,1 @@
-# alumni-management-system
+# Alumni Management System
