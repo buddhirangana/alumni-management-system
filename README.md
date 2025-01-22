@@ -38,6 +38,10 @@ The project was developed using PHP and MySQL.
 - Import the SQL file from the database folder in the Alumni Management System
 - To open the file in the browser type http://localhost/alumni-management-system/
 
+## Developer
+
+- Buddhi Rangana
+
 ## Credits
 
 - Special thanks goes to [AdminLTE](https://adminlte.io/)
