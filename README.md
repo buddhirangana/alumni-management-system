@@ -42,5 +42,9 @@ The project was developed using PHP and MySQL.
 
 - Special thanks goes to [AdminLTE](https://adminlte.io/)
 
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
 
 
