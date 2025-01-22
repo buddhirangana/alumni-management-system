@@ -74,7 +74,7 @@ We welcome contributions! To contribute:
 
 ## Contact
 For queries or feedback, please contact:
-- **Email:** https://bento.me/buddhirangana
+- **Link in Bio:** https://bento.me/buddhirangana
 - **GitHub:** [Buddhi Rangana](https://github.com/buddhirangana)
 
 ## License
