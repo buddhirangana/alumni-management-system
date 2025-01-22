@@ -48,10 +48,10 @@ Ensure the following tools are installed on your system:
    - Open the `config.php` file (or equivalent configuration file).
    - Update the database credentials:
      ```php
-     $servername = "localhost";
+     $server = "localhost";
      $username = "root";
      $password = "";
-     $dbname = "aasict_db";
+     $database = "aasict_db";
      ```
 
 4. **Start the Server:**
